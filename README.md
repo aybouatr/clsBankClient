@@ -109,5 +109,3 @@ public:
 This project demonstrates how core OOP principles can be applied to build a simple, maintainable, and extensible banking client management system in C++. It serves as a practical exercise for anyone learning C++ or object-oriented design.
 
 ---
-**Author:** aybouatr  
-**License:** MIT (or specify your preferred license)
